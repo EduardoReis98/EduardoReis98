@@ -23,3 +23,7 @@
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
+
+## GitHub contributions
+
+![snake gif](https://github.com/EduardoReis98/EduardoReis98/blob/output/github-contribution-grid-snake.svg)
