@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoReis98&layout=compact&hide_border=true&title_color=FF4500&text_color=ff91a4&bg_color=000000" />
 </div>
 
+## Minhas redes
+
 <div align="center"> 
 <a href="https://www.instagram.com/ed_reis98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:eduardo.reis1509@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,7 +17,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
+<div align="center" style="display: inline_block"><br/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="IntelliJ IDE" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
