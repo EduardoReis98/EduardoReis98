@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2691E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Eduardo+Reis;Tenho+24+anos;E+sou+Analista+de+Testes+|+QA;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoReis98&show_icons=true&theme=darcula"
     media="(prefers-color-scheme: merko)"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoReis98&layout=compact&hide_border=true&title_color=FF4500&text_color=ff91a4&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoReis98&layout=compact&theme=darcula" />
 </div>
 
 ## Minhas redes
